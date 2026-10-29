@@ -1,0 +1,8 @@
+{
+  "name": "marvel-timeline-stremio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent Marvel catalog add-on for Stremio by DolphinDiver",
+  "scripts": {"start": "node server.js", "test": "node --test test.js"},
+  "engines": {"node": ">=22"}
+}

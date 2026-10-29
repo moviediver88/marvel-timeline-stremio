@@ -1,0 +1,3405 @@
+[
+  {
+    "id": "tt0371746",
+    "name": "Iron Man",
+    "year": 2008,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0371746/img",
+    "releaseDate": "2008-05-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0371746.json"
+  },
+  {
+    "id": "tt0800080",
+    "name": "The Incredible Hulk",
+    "year": 2008,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0800080/img",
+    "releaseDate": "2008-06-13",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0800080.json"
+  },
+  {
+    "id": "tt1228705",
+    "name": "Iron Man 2",
+    "year": 2010,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1228705/img",
+    "releaseDate": "2010-05-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1228705.json"
+  },
+  {
+    "id": "tt0800369",
+    "name": "Thor",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0800369/img",
+    "releaseDate": "2011-05-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0800369.json"
+  },
+  {
+    "id": "tt0458339",
+    "name": "Captain America: The First Avenger",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0458339/img",
+    "releaseDate": "2011-07-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0458339.json"
+  },
+  {
+    "id": "tt0848228",
+    "name": "The Avengers",
+    "year": 2012,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0848228/img",
+    "releaseDate": "2012-05-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0848228.json"
+  },
+  {
+    "id": "tt1300854",
+    "name": "Iron Man 3",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1300854/img",
+    "releaseDate": "2013-05-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1300854.json"
+  },
+  {
+    "id": "tt1981115",
+    "name": "Thor: The Dark World",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1981115/img",
+    "releaseDate": "2013-11-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1981115.json"
+  },
+  {
+    "id": "tt1843866",
+    "name": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1843866/img",
+    "releaseDate": "2014-04-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1843866.json"
+  },
+  {
+    "id": "tt2015381",
+    "name": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2015381/img",
+    "releaseDate": "2014-08-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2015381.json"
+  },
+  {
+    "id": "tt2395427",
+    "name": "Avengers: Age of Ultron",
+    "year": 2015,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2395427/img",
+    "releaseDate": "2015-05-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2395427.json"
+  },
+  {
+    "id": "tt0478970",
+    "name": "Ant-Man",
+    "year": 2015,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0478970/img",
+    "releaseDate": "2015-07-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0478970.json"
+  },
+  {
+    "id": "tt3498820",
+    "name": "Captain America: Civil War",
+    "year": 2016,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3498820/img",
+    "releaseDate": "2016-05-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3498820.json"
+  },
+  {
+    "id": "tt1211837",
+    "name": "Doctor Strange",
+    "year": 2016,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1211837/img",
+    "releaseDate": "2016-11-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1211837.json"
+  },
+  {
+    "id": "tt3896198",
+    "name": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3896198/img",
+    "releaseDate": "2017-05-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3896198.json"
+  },
+  {
+    "id": "tt2250912",
+    "name": "Spider-Man: Homecoming",
+    "year": 2017,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2250912/img",
+    "releaseDate": "2017-07-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2250912.json"
+  },
+  {
+    "id": "tt3501632",
+    "name": "Thor: Ragnarok",
+    "year": 2017,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3501632/img",
+    "releaseDate": "2017-11-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3501632.json"
+  },
+  {
+    "id": "tt1825683",
+    "name": "Black Panther",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1825683/img",
+    "releaseDate": "2018-02-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1825683.json"
+  },
+  {
+    "id": "tt4154756",
+    "name": "Avengers: Infinity War",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4154756/img",
+    "releaseDate": "2018-04-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt4154756.json"
+  },
+  {
+    "id": "tt5095030",
+    "name": "Ant-Man and the Wasp",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5095030/img",
+    "releaseDate": "2018-07-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt5095030.json"
+  },
+  {
+    "id": "tt4154664",
+    "name": "Captain Marvel",
+    "year": 2019,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4154664/img",
+    "releaseDate": "2019-03-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt4154664.json"
+  },
+  {
+    "id": "tt4154796",
+    "name": "Avengers: Endgame",
+    "year": 2019,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4154796/img",
+    "releaseDate": "2019-04-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt4154796.json"
+  },
+  {
+    "id": "tt6320628",
+    "name": "Spider-Man: Far from Home",
+    "year": 2019,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6320628/img",
+    "releaseDate": "2019-07-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6320628.json"
+  },
+  {
+    "id": "tt3480822",
+    "name": "Black Widow",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3480822/img",
+    "releaseDate": "2021-07-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3480822.json"
+  },
+  {
+    "id": "tt9376612",
+    "name": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9376612/img",
+    "releaseDate": "2021-09-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt9376612.json"
+  },
+  {
+    "id": "tt9032400",
+    "name": "Eternals",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9032400/img",
+    "releaseDate": "2021-11-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt9032400.json"
+  },
+  {
+    "id": "tt10872600",
+    "name": "Spider-Man: No Way Home",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10872600/img",
+    "releaseDate": "2021-12-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt10872600.json"
+  },
+  {
+    "id": "tt9419884",
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9419884/img",
+    "releaseDate": "2022-05-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt9419884.json"
+  },
+  {
+    "id": "tt10648342",
+    "name": "Thor: Love and Thunder",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10648342/img",
+    "releaseDate": "2022-07-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt10648342.json"
+  },
+  {
+    "id": "tt9114286",
+    "name": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9114286/img",
+    "releaseDate": "2022-11-11",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt9114286.json"
+  },
+  {
+    "id": "tt10954600",
+    "name": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10954600/img",
+    "releaseDate": "2023-02-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt10954600.json"
+  },
+  {
+    "id": "tt6791350",
+    "name": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6791350/img",
+    "releaseDate": "2023-05-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6791350.json"
+  },
+  {
+    "id": "tt10676048",
+    "name": "The Marvels",
+    "year": 2023,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10676048/img",
+    "releaseDate": "2023-11-10",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt10676048.json"
+  },
+  {
+    "id": "tt6263850",
+    "name": "Deadpool & Wolverine",
+    "year": 2024,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6263850/img",
+    "releaseDate": "2024-07-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6263850.json"
+  },
+  {
+    "id": "tt14513804",
+    "name": "Captain America: Brave New World",
+    "year": 2025,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt14513804/img",
+    "releaseDate": "2025-02-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt14513804.json"
+  },
+  {
+    "id": "tt20969586",
+    "name": "Thunderbolts*",
+    "year": 2025,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt20969586/img",
+    "releaseDate": "2025-05-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt20969586.json"
+  },
+  {
+    "id": "tt10676052",
+    "name": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10676052/img",
+    "releaseDate": "2025-07-25",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt10676052.json"
+  },
+  {
+    "id": "tt22084616",
+    "name": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+    "releaseDate": "2026-07-31",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt22084616.json"
+  },
+  {
+    "id": "tt21357150",
+    "name": "Avengers: Doomsday",
+    "year": 2026,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt21357150/img",
+    "releaseDate": "2026-12-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt21357150.json"
+  },
+  {
+    "id": "tt21361444",
+    "name": "Avengers: Secret Wars",
+    "year": 2027,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt21361444/img",
+    "releaseDate": "2027-12-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt21361444.json"
+  },
+  {
+    "id": "tt9140560",
+    "name": "WandaVision",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9140560/img",
+    "releaseDate": "2021-01-15",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt9140560.json"
+  },
+  {
+    "id": "tt9208876",
+    "name": "The Falcon and the Winter Soldier",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9208876/img",
+    "releaseDate": "2021-03-19",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt9208876.json"
+  },
+  {
+    "id": "tt9140554",
+    "name": "Loki",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9140554/img",
+    "releaseDate": "2021-06-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt9140554.json"
+  },
+  {
+    "id": "tt10168312",
+    "name": "What If...?",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "animation",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10168312/img",
+    "releaseDate": "2021-08-11",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10168312.json"
+  },
+  {
+    "id": "tt10160804",
+    "name": "Hawkeye",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10160804/img",
+    "releaseDate": "2021-11-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10160804.json"
+  },
+  {
+    "id": "tt10234724",
+    "name": "Moon Knight",
+    "year": 2022,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10234724/img",
+    "releaseDate": "2022-03-30",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10234724.json"
+  },
+  {
+    "id": "tt10857164",
+    "name": "Ms. Marvel",
+    "year": 2022,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10857164/img",
+    "releaseDate": "2022-06-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10857164.json"
+  },
+  {
+    "id": "tt10857160",
+    "name": "She-Hulk: Attorney at Law",
+    "year": 2022,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10857160/img",
+    "releaseDate": "2022-08-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10857160.json"
+  },
+  {
+    "id": "tt13623148",
+    "name": "I Am Groot",
+    "year": 2022,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "animation",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13623148/img",
+    "releaseDate": "2022-08-10",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13623148.json"
+  },
+  {
+    "id": "tt13157618",
+    "name": "Secret Invasion",
+    "year": 2023,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13157618/img",
+    "releaseDate": "2023-06-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13157618.json"
+  },
+  {
+    "id": "tt13966962",
+    "name": "Echo",
+    "year": 2024,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13966962/img",
+    "releaseDate": "2024-01-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13966962.json"
+  },
+  {
+    "id": "tt15571732",
+    "name": "Agatha All Along",
+    "year": 2024,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt15571732/img",
+    "releaseDate": "2024-09-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt15571732.json"
+  },
+  {
+    "id": "tt18923754",
+    "name": "Daredevil: Born Again",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt18923754/img",
+    "releaseDate": "2025-03-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt18923754.json"
+  },
+  {
+    "id": "tt13623126",
+    "name": "Ironheart",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13623126/img",
+    "releaseDate": "2025-06-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13623126.json"
+  },
+  {
+    "id": "tt13968252",
+    "name": "Eyes of Wakanda",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "animation",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13968252/img",
+    "releaseDate": "2025-08-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13968252.json"
+  },
+  {
+    "id": "tt16027014",
+    "name": "Marvel Zombies",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "animation",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt16027014/img",
+    "releaseDate": "2025-09-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt16027014.json"
+  },
+  {
+    "id": "tt21066182",
+    "name": "Wonder Man",
+    "year": 2026,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt21066182/img",
+    "releaseDate": "2026-01-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt21066182.json"
+  },
+  {
+    "id": "tt23112594",
+    "name": "VisionQuest",
+    "year": 2026,
+    "type": "series",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt23112594/img",
+    "releaseDate": "2026-10-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt23112594.json"
+  },
+  {
+    "id": "tt15318872",
+    "name": "Werewolf by Night",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt15318872/img",
+    "releaseDate": "2022-10-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt15318872.json"
+  },
+  {
+    "id": "tt13623136",
+    "name": "The Guardians of the Galaxy Holiday Special",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "mcu"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13623136/img",
+    "releaseDate": "2022-11-25",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt13623136.json"
+  },
+  {
+    "id": "tt36042156",
+    "name": "The Punisher: One Last Kill",
+    "year": 2026,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt36042156/img",
+    "releaseDate": "2026-05-12",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt36042156.json"
+  },
+  {
+    "id": "tt2011118",
+    "name": "Marvel One-Shot: The Consultant",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2011118/img",
+    "releaseDate": "2011-09-13",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2011118.json"
+  },
+  {
+    "id": "tt2011109",
+    "name": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2011109/img",
+    "releaseDate": "2011-10-25",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2011109.json"
+  },
+  {
+    "id": "tt2247732",
+    "name": "Marvel One-Shot: Item 47",
+    "year": 2012,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2247732/img",
+    "releaseDate": "2012-09-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2247732.json"
+  },
+  {
+    "id": "tt3067038",
+    "name": "Marvel One-Shot: Agent Carter",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3067038/img",
+    "releaseDate": "2013-09-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3067038.json"
+  },
+  {
+    "id": "tt3438640",
+    "name": "Marvel One-Shot: All Hail the King",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "mcu",
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3438640/img",
+    "releaseDate": "2014-02-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3438640.json"
+  },
+  {
+    "id": "tt2364582",
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2364582/img",
+    "releaseDate": "2013-09-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2364582.json"
+  },
+  {
+    "id": "tt3475734",
+    "name": "Agent Carter",
+    "year": 2015,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3475734/img",
+    "releaseDate": "2015-01-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt3475734.json"
+  },
+  {
+    "id": "tt3322312",
+    "name": "Daredevil",
+    "year": 2015,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3322312/img",
+    "releaseDate": "2015-04-10",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt3322312.json"
+  },
+  {
+    "id": "tt2357547",
+    "name": "Jessica Jones",
+    "year": 2015,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2357547/img",
+    "releaseDate": "2015-11-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2357547.json"
+  },
+  {
+    "id": "tt3322314",
+    "name": "Luke Cage",
+    "year": 2016,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3322314/img",
+    "releaseDate": "2016-09-30",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt3322314.json"
+  },
+  {
+    "id": "tt3322310",
+    "name": "Iron Fist",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3322310/img",
+    "releaseDate": "2017-03-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt3322310.json"
+  },
+  {
+    "id": "tt4230076",
+    "name": "The Defenders",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4230076/img",
+    "releaseDate": "2017-08-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt4230076.json"
+  },
+  {
+    "id": "tt5675620",
+    "name": "The Punisher",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5675620/img",
+    "releaseDate": "2017-11-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt5675620.json"
+  },
+  {
+    "id": "tt4154858",
+    "name": "Inhumans",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4154858/img",
+    "releaseDate": "2017-09-29",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt4154858.json"
+  },
+  {
+    "id": "tt1236246",
+    "name": "Runaways",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1236246/img",
+    "releaseDate": "2017-11-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1236246.json"
+  },
+  {
+    "id": "tt5614844",
+    "name": "Cloak & Dagger",
+    "year": 2018,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5614844/img",
+    "releaseDate": "2018-06-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt5614844.json"
+  },
+  {
+    "id": "tt10266874",
+    "name": "Helstrom",
+    "year": 2020,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10266874/img",
+    "releaseDate": "2020-10-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10266874.json"
+  },
+  {
+    "id": "tt5114356",
+    "name": "Legion",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5114356/img",
+    "releaseDate": "2017-02-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt5114356.json"
+  },
+  {
+    "id": "tt4396630",
+    "name": "The Gifted",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "tv",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4396630/img",
+    "releaseDate": "2017-10-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt4396630.json"
+  },
+  {
+    "id": "tt0283203",
+    "name": "Mutant X",
+    "year": 2001,
+    "type": "series",
+    "tags": [
+      "tv",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0283203/img",
+    "releaseDate": "2001-10-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0283203.json"
+  },
+  {
+    "id": "tt0823333",
+    "name": "Blade: The Series",
+    "year": 2006,
+    "type": "series",
+    "tags": [
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0823333/img",
+    "releaseDate": "2006-06-28",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0823333.json"
+  },
+  {
+    "id": "tt0076975",
+    "name": "The Amazing Spider-Man",
+    "year": 1977,
+    "type": "series",
+    "tags": [
+      "tv",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0076975/img",
+    "releaseDate": "1977-09-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0076975.json"
+  },
+  {
+    "id": "tt0185116",
+    "name": "Spider-Man",
+    "year": 1978,
+    "type": "series",
+    "tags": [
+      "tv",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0185116/img",
+    "releaseDate": "1978-05-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0185116.json"
+  },
+  {
+    "id": "tt0077031",
+    "name": "The Incredible Hulk",
+    "year": 1977,
+    "type": "series",
+    "tags": [
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0077031/img",
+    "releaseDate": "1977-11-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0077031.json"
+  },
+  {
+    "id": "tt0036697",
+    "name": "Captain America",
+    "year": 1944,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0036697/img",
+    "releaseDate": "1944-02-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0036697.json"
+  },
+  {
+    "id": "tt0091225",
+    "name": "Howard the Duck",
+    "year": 1986,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0091225/img",
+    "releaseDate": "1986-08-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0091225.json"
+  },
+  {
+    "id": "tt0098141",
+    "name": "The Punisher",
+    "year": 1989,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0098141/img",
+    "releaseDate": "1990-01-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0098141.json"
+  },
+  {
+    "id": "tt0103923",
+    "name": "Captain America",
+    "year": 1990,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0103923/img",
+    "releaseDate": "1991-07-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0103923.json"
+  },
+  {
+    "id": "tt0109770",
+    "name": "The Fantastic Four",
+    "year": 1994,
+    "type": "movie",
+    "tags": [
+      "fantasticfour",
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0109770/img",
+    "releaseDate": "1994-05-31",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0109770.json"
+  },
+  {
+    "id": "tt0120611",
+    "name": "Blade",
+    "year": 1998,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0120611/img",
+    "releaseDate": "1998-08-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0120611.json"
+  },
+  {
+    "id": "tt0187738",
+    "name": "Blade II",
+    "year": 2002,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0187738/img",
+    "releaseDate": "2002-03-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0187738.json"
+  },
+  {
+    "id": "tt0359013",
+    "name": "Blade: Trinity",
+    "year": 2004,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0359013/img",
+    "releaseDate": "2004-12-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0359013.json"
+  },
+  {
+    "id": "tt0120903",
+    "name": "X-Men",
+    "year": 2000,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0120903/img",
+    "releaseDate": "2000-07-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0120903.json"
+  },
+  {
+    "id": "tt0290334",
+    "name": "X2",
+    "year": 2003,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0290334/img",
+    "releaseDate": "2003-05-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0290334.json"
+  },
+  {
+    "id": "tt0376994",
+    "name": "X-Men: The Last Stand",
+    "year": 2006,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0376994/img",
+    "releaseDate": "2006-05-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0376994.json"
+  },
+  {
+    "id": "tt0458525",
+    "name": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0458525/img",
+    "releaseDate": "2009-05-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0458525.json"
+  },
+  {
+    "id": "tt1270798",
+    "name": "X-Men: First Class",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1270798/img",
+    "releaseDate": "2011-06-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1270798.json"
+  },
+  {
+    "id": "tt1430132",
+    "name": "The Wolverine",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1430132/img",
+    "releaseDate": "2013-07-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1430132.json"
+  },
+  {
+    "id": "tt1877832",
+    "name": "X-Men: Days of Future Past",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1877832/img",
+    "releaseDate": "2014-05-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1877832.json"
+  },
+  {
+    "id": "tt1431045",
+    "name": "Deadpool",
+    "year": 2016,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1431045/img",
+    "releaseDate": "2016-02-12",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1431045.json"
+  },
+  {
+    "id": "tt3385516",
+    "name": "X-Men: Apocalypse",
+    "year": 2016,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3385516/img",
+    "releaseDate": "2016-05-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3385516.json"
+  },
+  {
+    "id": "tt3315342",
+    "name": "Logan",
+    "year": 2017,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3315342/img",
+    "releaseDate": "2017-03-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3315342.json"
+  },
+  {
+    "id": "tt5463162",
+    "name": "Deadpool 2",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5463162/img",
+    "releaseDate": "2018-05-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt5463162.json"
+  },
+  {
+    "id": "tt6565702",
+    "name": "Dark Phoenix",
+    "year": 2019,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6565702/img",
+    "releaseDate": "2019-06-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6565702.json"
+  },
+  {
+    "id": "tt4682266",
+    "name": "The New Mutants",
+    "year": 2020,
+    "type": "movie",
+    "tags": [
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4682266/img",
+    "releaseDate": "2020-08-28",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt4682266.json"
+  },
+  {
+    "id": "tt0145487",
+    "name": "Spider-Man",
+    "year": 2002,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+    "releaseDate": "2002-05-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0145487.json"
+  },
+  {
+    "id": "tt0316654",
+    "name": "Spider-Man 2",
+    "year": 2004,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0316654/img",
+    "releaseDate": "2004-06-30",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0316654.json"
+  },
+  {
+    "id": "tt0413300",
+    "name": "Spider-Man 3",
+    "year": 2007,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0413300/img",
+    "releaseDate": "2007-05-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0413300.json"
+  },
+  {
+    "id": "tt0948470",
+    "name": "The Amazing Spider-Man",
+    "year": 2012,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0948470/img",
+    "releaseDate": "2012-07-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0948470.json"
+  },
+  {
+    "id": "tt1872181",
+    "name": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1872181/img",
+    "releaseDate": "2014-05-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1872181.json"
+  },
+  {
+    "id": "tt1270797",
+    "name": "Venom",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1270797/img",
+    "releaseDate": "2018-10-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1270797.json"
+  },
+  {
+    "id": "tt7097896",
+    "name": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt7097896/img",
+    "releaseDate": "2021-10-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt7097896.json"
+  },
+  {
+    "id": "tt5108870",
+    "name": "Morbius",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5108870/img",
+    "releaseDate": "2022-04-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt5108870.json"
+  },
+  {
+    "id": "tt11057302",
+    "name": "Madame Web",
+    "year": 2024,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt11057302/img",
+    "releaseDate": "2024-02-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt11057302.json"
+  },
+  {
+    "id": "tt16366836",
+    "name": "Venom: The Last Dance",
+    "year": 2024,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt16366836/img",
+    "releaseDate": "2024-10-25",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt16366836.json"
+  },
+  {
+    "id": "tt8790086",
+    "name": "Kraven the Hunter",
+    "year": 2024,
+    "type": "movie",
+    "tags": [
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt8790086/img",
+    "releaseDate": "2024-12-13",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt8790086.json"
+  },
+  {
+    "id": "tt4633694",
+    "name": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "spiderman",
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4633694/img",
+    "releaseDate": "2018-12-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt4633694.json"
+  },
+  {
+    "id": "tt9362722",
+    "name": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "type": "movie",
+    "tags": [
+      "spiderman",
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9362722/img",
+    "releaseDate": "2023-06-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt9362722.json"
+  },
+  {
+    "id": "tt16360004",
+    "name": "Spider-Man: Beyond the Spider-Verse",
+    "year": 2027,
+    "type": "movie",
+    "tags": [
+      "spiderman",
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt16360004/img",
+    "releaseDate": "2027-06-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt16360004.json"
+  },
+  {
+    "id": "tt0287978",
+    "name": "Daredevil",
+    "year": 2003,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0287978/img",
+    "releaseDate": "2003-02-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0287978.json"
+  },
+  {
+    "id": "tt0286716",
+    "name": "Hulk",
+    "year": 2003,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0286716/img",
+    "releaseDate": "2003-06-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0286716.json"
+  },
+  {
+    "id": "tt0330793",
+    "name": "The Punisher",
+    "year": 2004,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0330793/img",
+    "releaseDate": "2004-04-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0330793.json"
+  },
+  {
+    "id": "tt0357277",
+    "name": "Elektra",
+    "year": 2005,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0357277/img",
+    "releaseDate": "2005-01-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0357277.json"
+  },
+  {
+    "id": "tt0120667",
+    "name": "Fantastic Four",
+    "year": 2005,
+    "type": "movie",
+    "tags": [
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0120667/img",
+    "releaseDate": "2005-07-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0120667.json"
+  },
+  {
+    "id": "tt0486576",
+    "name": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "type": "movie",
+    "tags": [
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0486576/img",
+    "releaseDate": "2007-06-15",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0486576.json"
+  },
+  {
+    "id": "tt1502712",
+    "name": "Fantastic Four",
+    "year": 2015,
+    "type": "movie",
+    "tags": [
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1502712/img",
+    "releaseDate": "2015-08-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1502712.json"
+  },
+  {
+    "id": "tt0259324",
+    "name": "Ghost Rider",
+    "year": 2007,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0259324/img",
+    "releaseDate": "2007-02-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0259324.json"
+  },
+  {
+    "id": "tt1071875",
+    "name": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1071875/img",
+    "releaseDate": "2012-02-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1071875.json"
+  },
+  {
+    "id": "tt0450314",
+    "name": "Punisher: War Zone",
+    "year": 2008,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0450314/img",
+    "releaseDate": "2008-12-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0450314.json"
+  },
+  {
+    "id": "tt0290747",
+    "name": "Man-Thing",
+    "year": 2005,
+    "type": "movie",
+    "tags": [
+      "legacy"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0290747/img",
+    "releaseDate": "2005-04-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0290747.json"
+  },
+  {
+    "id": "tt0119781",
+    "name": "Nick Fury: Agent of S.H.I.E.L.D.",
+    "year": 1998,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0119781/img",
+    "releaseDate": "1998-05-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0119781.json"
+  },
+  {
+    "id": "tt0116401",
+    "name": "Generation X",
+    "year": 1996,
+    "type": "movie",
+    "tags": [
+      "xmen",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0116401/img",
+    "releaseDate": "1996-02-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0116401.json"
+  },
+  {
+    "id": "tt0077469",
+    "name": "Doctor Strange",
+    "year": 1978,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0077469/img",
+    "releaseDate": "1978-09-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0077469.json"
+  },
+  {
+    "id": "tt0078937",
+    "name": "Captain America",
+    "year": 1979,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0078937/img",
+    "releaseDate": "1979-01-19",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0078937.json"
+  },
+  {
+    "id": "tt0078938",
+    "name": "Captain America II: Death Too Soon",
+    "year": 1979,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0078938/img",
+    "releaseDate": "1979-11-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0078938.json"
+  },
+  {
+    "id": "tt0095368",
+    "name": "The Incredible Hulk Returns",
+    "year": 1988,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0095368/img",
+    "releaseDate": "1988-05-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0095368.json"
+  },
+  {
+    "id": "tt0098512",
+    "name": "The Trial of the Incredible Hulk",
+    "year": 1989,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0098512/img",
+    "releaseDate": "1989-05-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0098512.json"
+  },
+  {
+    "id": "tt0099387",
+    "name": "The Death of the Incredible Hulk",
+    "year": 1990,
+    "type": "movie",
+    "tags": [
+      "legacy",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0099387/img",
+    "releaseDate": "1990-02-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0099387.json"
+  },
+  {
+    "id": "tt0078308",
+    "name": "Spider-Man Strikes Back",
+    "year": 1978,
+    "type": "movie",
+    "tags": [
+      "spiderman",
+      "tv"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt0078308/img",
+    "releaseDate": "1978-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0078308.json"
+  },
+  {
+    "id": "tt0077328",
+    "name": "Spider-Man: The Dragon's Challenge",
+    "year": 1979,
+    "type": "movie",
+    "tags": [
+      "spiderman",
+      "tv"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt0077328/img",
+    "releaseDate": "1979-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0077328.json"
+  },
+  {
+    "id": "tt21376674",
+    "name": "The Marvel Super Heroes",
+    "year": 1966,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "",
+    "releaseDate": "1966-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt21376674.json"
+  },
+  {
+    "id": "tt0061250",
+    "name": "Fantastic Four",
+    "year": 1967,
+    "type": "series",
+    "tags": [
+      "animation",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0061250/img",
+    "releaseDate": "1967-09-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0061250.json"
+  },
+  {
+    "id": "tt0061301",
+    "name": "Spider-Man",
+    "year": 1967,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0061301/img",
+    "releaseDate": "1967-09-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0061301.json"
+  },
+  {
+    "id": "tt0241100",
+    "name": "The New Fantastic Four",
+    "year": 1978,
+    "type": "series",
+    "tags": [
+      "animation",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0241100/img",
+    "releaseDate": "1978-09-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0241100.json"
+  },
+  {
+    "id": "tt0077091",
+    "name": "Fred and Barney Meet the Thing",
+    "year": 1979,
+    "type": "series",
+    "tags": [
+      "animation",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0077091/img",
+    "releaseDate": "1979-09-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0077091.json"
+  },
+  {
+    "id": "tt0197911",
+    "name": "Spider-Woman",
+    "year": 1979,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0197911/img",
+    "releaseDate": "1979-09-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0197911.json"
+  },
+  {
+    "id": "tt0081938",
+    "name": "Spider-Man",
+    "year": 1981,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0081938/img",
+    "releaseDate": "1981-09-12",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0081938.json"
+  },
+  {
+    "id": "tt0083481",
+    "name": "Spider-Man and His Amazing Friends",
+    "year": 1981,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0083481/img",
+    "releaseDate": "1981-09-12",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0083481.json"
+  },
+  {
+    "id": "tt0083430",
+    "name": "The Incredible Hulk",
+    "year": 1982,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0083430/img",
+    "releaseDate": "1982-09-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0083430.json"
+  },
+  {
+    "id": "tt0098137",
+    "name": "Pryde of the X-Men",
+    "year": 1989,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0098137/img",
+    "releaseDate": "1989-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0098137.json"
+  },
+  {
+    "id": "tt0103584",
+    "name": "X-Men: The Animated Series",
+    "year": 1992,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0103584/img",
+    "releaseDate": "1992-10-31",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0103584.json"
+  },
+  {
+    "id": "tt0115218",
+    "name": "Iron Man",
+    "year": 1994,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0115218/img",
+    "releaseDate": "1994-09-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0115218.json"
+  },
+  {
+    "id": "tt0187635",
+    "name": "Fantastic Four",
+    "year": 1994,
+    "type": "series",
+    "tags": [
+      "animation",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0187635/img",
+    "releaseDate": "1994-09-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0187635.json"
+  },
+  {
+    "id": "tt0112175",
+    "name": "Spider-Man: The Animated Series",
+    "year": 1994,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0112175/img",
+    "releaseDate": "1994-11-19",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0112175.json"
+  },
+  {
+    "id": "tt0115215",
+    "name": "The Incredible Hulk",
+    "year": 1996,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0115215/img",
+    "releaseDate": "1996-09-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0115215.json"
+  },
+  {
+    "id": "tt0203268",
+    "name": "Silver Surfer",
+    "year": 1998,
+    "type": "series",
+    "tags": [
+      "animation",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0203268/img",
+    "releaseDate": "1998-02-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0203268.json"
+  },
+  {
+    "id": "tt0207120",
+    "name": "Spider-Man Unlimited",
+    "year": 1999,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0207120/img",
+    "releaseDate": "1999-10-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0207120.json"
+  },
+  {
+    "id": "tt0203247",
+    "name": "The Avengers: United They Stand",
+    "year": 1999,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0203247/img",
+    "releaseDate": "1999-10-30",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0203247.json"
+  },
+  {
+    "id": "tt0247827",
+    "name": "X-Men: Evolution",
+    "year": 2000,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0247827/img",
+    "releaseDate": "2000-11-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0247827.json"
+  },
+  {
+    "id": "tt0290983",
+    "name": "Spider-Man: The New Animated Series",
+    "year": 2003,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0290983/img",
+    "releaseDate": "2003-07-11",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0290983.json"
+  },
+  {
+    "id": "tt0830298",
+    "name": "Fantastic Four: World's Greatest Heroes",
+    "year": 2006,
+    "type": "series",
+    "tags": [
+      "animation",
+      "fantasticfour"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0830298/img",
+    "releaseDate": "2006-09-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0830298.json"
+  },
+  {
+    "id": "tt0976192",
+    "name": "The Spectacular Spider-Man",
+    "year": 2008,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0976192/img",
+    "releaseDate": "2008-03-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0976192.json"
+  },
+  {
+    "id": "tt0772145",
+    "name": "Wolverine and the X-Men",
+    "year": 2008,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0772145/img",
+    "releaseDate": "2009-01-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0772145.json"
+  },
+  {
+    "id": "tt0837143",
+    "name": "Iron Man: Armored Adventures",
+    "year": 2009,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0837143/img",
+    "releaseDate": "2009-04-24",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0837143.json"
+  },
+  {
+    "id": "tt1388589",
+    "name": "The Super Hero Squad Show",
+    "year": 2009,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1388589/img",
+    "releaseDate": "2009-09-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1388589.json"
+  },
+  {
+    "id": "tt1626038",
+    "name": "The Avengers: Earth's Mightiest Heroes",
+    "year": 2010,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1626038/img",
+    "releaseDate": "2010-09-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1626038.json"
+  },
+  {
+    "id": "tt1722512",
+    "name": "Ultimate Spider-Man",
+    "year": 2012,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1722512/img",
+    "releaseDate": "2012-04-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1722512.json"
+  },
+  {
+    "id": "tt2455546",
+    "name": "Avengers Assemble",
+    "year": 2013,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2455546/img",
+    "releaseDate": "2013-05-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2455546.json"
+  },
+  {
+    "id": "tt2455514",
+    "name": "Hulk and the Agents of S.M.A.S.H.",
+    "year": 2013,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2455514/img",
+    "releaseDate": "2013-08-11",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2455514.json"
+  },
+  {
+    "id": "tt4176370",
+    "name": "Guardians of the Galaxy",
+    "year": 2015,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4176370/img",
+    "releaseDate": "2015-07-26",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt4176370.json"
+  },
+  {
+    "id": "tt6135682",
+    "name": "Marvel's Spider-Man",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6135682/img",
+    "releaseDate": "2017-07-29",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt6135682.json"
+  },
+  {
+    "id": "tt9811118",
+    "name": "M.O.D.O.K.",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9811118/img",
+    "releaseDate": "2021-05-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt9811118.json"
+  },
+  {
+    "id": "tt9811316",
+    "name": "Hit-Monkey",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt9811316/img",
+    "releaseDate": "2021-11-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt9811316.json"
+  },
+  {
+    "id": "tt10862280",
+    "name": "Spidey and His Amazing Friends",
+    "year": 2021,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10862280/img",
+    "releaseDate": "2021-08-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt10862280.json"
+  },
+  {
+    "id": "tt16026746",
+    "name": "X-Men '97",
+    "year": 2024,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt16026746/img",
+    "releaseDate": "2024-03-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt16026746.json"
+  },
+  {
+    "id": "tt16027074",
+    "name": "Your Friendly Neighborhood Spider-Man",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "animation",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt16027074/img",
+    "releaseDate": "2025-01-29",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt16027074.json"
+  },
+  {
+    "id": "tt3644256",
+    "name": "Marvel Disk Wars: The Avengers",
+    "year": 2014,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3644256/img",
+    "releaseDate": "2014-04-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt3644256.json"
+  },
+  {
+    "id": "tt6591446",
+    "name": "Marvel Future Avengers",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6591446/img",
+    "releaseDate": "2017-07-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt6591446.json"
+  },
+  {
+    "id": "tt1707807",
+    "name": "Iron Man",
+    "year": 2010,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1707807/img",
+    "releaseDate": "2011-07-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1707807.json"
+  },
+  {
+    "id": "tt1847521",
+    "name": "Wolverine",
+    "year": 2011,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1847521/img",
+    "releaseDate": "2011-07-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1847521.json"
+  },
+  {
+    "id": "tt2070571",
+    "name": "X-Men",
+    "year": 2011,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2070571/img",
+    "releaseDate": "2011-04-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2070571.json"
+  },
+  {
+    "id": "tt1988235",
+    "name": "Blade",
+    "year": 2011,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1988235/img",
+    "releaseDate": "2011-06-06",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1988235.json"
+  },
+  {
+    "id": "tt1441105",
+    "name": "Black Panther",
+    "year": 2010,
+    "type": "series",
+    "tags": [
+      "animation",
+      "motioncomic"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1441105/img",
+    "releaseDate": "2010-01-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1441105.json"
+  },
+  {
+    "id": "tt0491703",
+    "name": "Ultimate Avengers",
+    "year": 2006,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0491703/img",
+    "releaseDate": "2006-02-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0491703.json"
+  },
+  {
+    "id": "tt0803093",
+    "name": "Ultimate Avengers 2",
+    "year": 2006,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0803093/img",
+    "releaseDate": "2006-08-08",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0803093.json"
+  },
+  {
+    "id": "tt0903135",
+    "name": "The Invincible Iron Man",
+    "year": 2007,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0903135/img",
+    "releaseDate": "2007-01-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0903135.json"
+  },
+  {
+    "id": "tt0910865",
+    "name": "Doctor Strange: The Sorcerer Supreme",
+    "year": 2007,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0910865/img",
+    "releaseDate": "2007-08-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0910865.json"
+  },
+  {
+    "id": "tt1259998",
+    "name": "Next Avengers: Heroes of Tomorrow",
+    "year": 2008,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1259998/img",
+    "releaseDate": "2008-09-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1259998.json"
+  },
+  {
+    "id": "tt1325753",
+    "name": "Hulk Vs.",
+    "year": 2009,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1325753/img",
+    "releaseDate": "2009-01-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1325753.json"
+  },
+  {
+    "id": "tt1483025",
+    "name": "Planet Hulk",
+    "year": 2010,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1483025/img",
+    "releaseDate": "2010-02-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1483025.json"
+  },
+  {
+    "id": "tt1667903",
+    "name": "Thor: Tales of Asgard",
+    "year": 2011,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1667903/img",
+    "releaseDate": "2011-05-17",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1667903.json"
+  },
+  {
+    "id": "tt2654124",
+    "name": "Iron Man: Rise of Technovore",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2654124/img",
+    "releaseDate": "2013-04-09",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2654124.json"
+  },
+  {
+    "id": "tt3221698",
+    "name": "Iron Man & Hulk: Heroes United",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3221698/img",
+    "releaseDate": "2013-12-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3221698.json"
+  },
+  {
+    "id": "tt3482378",
+    "name": "Avengers Confidential: Black Widow & Punisher",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3482378/img",
+    "releaseDate": "2014-03-11",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3482378.json"
+  },
+  {
+    "id": "tt3911200",
+    "name": "Iron Man & Captain America: Heroes United",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3911200/img",
+    "releaseDate": "2014-07-29",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt3911200.json"
+  },
+  {
+    "id": "tt6173902",
+    "name": "Hulk: Where Monsters Dwell",
+    "year": 2016,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6173902/img",
+    "releaseDate": "2016-10-21",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6173902.json"
+  },
+  {
+    "id": "tt7728344",
+    "name": "Marvel Rising: Secret Warriors",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt7728344/img",
+    "releaseDate": "2018-09-30",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt7728344.json"
+  },
+  {
+    "id": "tt9073722",
+    "name": "Marvel Rising: Initiation",
+    "year": 2018,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt9073722/img",
+    "releaseDate": "2018-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt9073722.json"
+  },
+  {
+    "id": "tt3322904",
+    "name": "LEGO Marvel Super Heroes: Maximum Overload",
+    "year": 2013,
+    "type": "series",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt3322904/img",
+    "releaseDate": "2013-11-05",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt3322904.json"
+  },
+  {
+    "id": "tt5371572",
+    "name": "LEGO Marvel Super Heroes: Avengers Reassembled",
+    "year": 2015,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5371572/img",
+    "releaseDate": "2015-11-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt5371572.json"
+  },
+  {
+    "id": "tt8205250",
+    "name": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt8205250/img",
+    "releaseDate": "2018-06-04",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt8205250.json"
+  },
+  {
+    "id": "tt10755644",
+    "name": "LEGO Marvel Spider-Man: Vexed by Venom",
+    "year": 2019,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego",
+      "spiderman"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt10755644/img",
+    "releaseDate": "2019-08-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt10755644.json"
+  },
+  {
+    "id": "tt13783758",
+    "name": "LEGO Marvel Avengers: Climate Conundrum",
+    "year": 2020,
+    "type": "series",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt13783758/img",
+    "releaseDate": "2020-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13783758.json"
+  },
+  {
+    "id": "tt21072140",
+    "name": "LEGO Marvel Avengers: Loki in Training",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt21072140/img",
+    "releaseDate": "2021-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt21072140.json"
+  },
+  {
+    "id": "tt16531868",
+    "name": "LEGO Marvel Avengers: Time Twisted",
+    "year": 2022,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt16531868/img",
+    "releaseDate": "2022-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt16531868.json"
+  },
+  {
+    "id": "tt28477867",
+    "name": "LEGO Marvel Avengers: Code Red",
+    "year": 2023,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt28477867/img",
+    "releaseDate": "2023-10-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt28477867.json"
+  },
+  {
+    "id": "tt33653255",
+    "name": "LEGO Marvel Avengers: Mission Demolition",
+    "year": 2024,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt33653255/img",
+    "releaseDate": "2024-10-18",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt33653255.json"
+  },
+  {
+    "id": "tt38692893",
+    "name": "LEGO Marvel Avengers: Strange Tails",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "animation",
+      "lego"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt38692893/img",
+    "releaseDate": "2025-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt38692893.json"
+  },
+  {
+    "id": "tt2245084",
+    "name": "Big Hero 6",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "animation",
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2245084/img",
+    "releaseDate": "2014-11-07",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2245084.json"
+  },
+  {
+    "id": "tt5515212",
+    "name": "Big Hero 6: The Series",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "animation",
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt5515212/img",
+    "releaseDate": "2017-11-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt5515212.json"
+  },
+  {
+    "id": "tt13622958",
+    "name": "Baymax!",
+    "year": 2022,
+    "type": "series",
+    "tags": [
+      "animation",
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt13622958/img",
+    "releaseDate": "2022-06-29",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt13622958.json"
+  },
+  {
+    "id": "tt0119654",
+    "name": "Men in Black",
+    "year": 1997,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0119654/img",
+    "releaseDate": "1997-07-02",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0119654.json"
+  },
+  {
+    "id": "tt0120912",
+    "name": "Men in Black II",
+    "year": 2002,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0120912/img",
+    "releaseDate": "2002-07-03",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt0120912.json"
+  },
+  {
+    "id": "tt1409024",
+    "name": "Men in Black 3",
+    "year": 2012,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1409024/img",
+    "releaseDate": "2012-05-25",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1409024.json"
+  },
+  {
+    "id": "tt2283336",
+    "name": "Men in Black: International",
+    "year": 2019,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2283336/img",
+    "releaseDate": "2019-06-14",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2283336.json"
+  },
+  {
+    "id": "tt0127385",
+    "name": "Men in Black: The Series",
+    "year": 1997,
+    "type": "series",
+    "tags": [
+      "animation",
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt0127385/img",
+    "releaseDate": "1997-10-11",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt0127385.json"
+  },
+  {
+    "id": "tt1250777",
+    "name": "Kick-Ass",
+    "year": 2010,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1250777/img",
+    "releaseDate": "2010-04-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1250777.json"
+  },
+  {
+    "id": "tt1650554",
+    "name": "Kick-Ass 2",
+    "year": 2013,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1650554/img",
+    "releaseDate": "2013-08-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt1650554.json"
+  },
+  {
+    "id": "tt2802144",
+    "name": "Kingsman: The Secret Service",
+    "year": 2014,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2802144/img",
+    "releaseDate": "2015-02-13",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt2802144.json"
+  },
+  {
+    "id": "tt4649466",
+    "name": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt4649466/img",
+    "releaseDate": "2017-09-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt4649466.json"
+  },
+  {
+    "id": "tt6856242",
+    "name": "The King's Man",
+    "year": 2021,
+    "type": "movie",
+    "tags": [
+      "imprint"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6856242/img",
+    "releaseDate": "2021-12-22",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6856242.json"
+  },
+  {
+    "id": "tt1851040",
+    "name": "Powers",
+    "year": 2015,
+    "type": "series",
+    "tags": [
+      "imprint",
+      "tv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1851040/img",
+    "releaseDate": "2015-03-10",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1851040.json"
+  },
+  {
+    "id": "tt6016776",
+    "name": "Team Thor",
+    "year": 2016,
+    "type": "movie",
+    "tags": [
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6016776/img",
+    "releaseDate": "2016-07-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6016776.json"
+  },
+  {
+    "id": "tt6599818",
+    "name": "Team Thor: Part 2",
+    "year": 2017,
+    "type": "movie",
+    "tags": [
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6599818/img",
+    "releaseDate": "2017-02-28",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt6599818.json"
+  },
+  {
+    "id": "tt8023090",
+    "name": "Team Darryl",
+    "year": 2018,
+    "type": "movie",
+    "tags": [
+      "short"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt8023090/img",
+    "releaseDate": "2018-02-20",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/movie/tt8023090.json"
+  },
+  {
+    "id": "tt6313900",
+    "name": "Agents of S.H.I.E.L.D.: Slingshot",
+    "year": 2016,
+    "type": "series",
+    "tags": [
+      "tv",
+      "legacytv"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt6313900/img",
+    "releaseDate": "2016-12-13",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt6313900.json"
+  },
+  {
+    "id": "tt7726152",
+    "name": "Marvel Super Hero Adventures",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt7726152/img",
+    "releaseDate": "2017-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt7726152.json"
+  },
+  {
+    "id": "tt12583300",
+    "name": "Marvel Battleworld: Mystery of the Thanostones",
+    "year": 2020,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt12583300/img",
+    "releaseDate": "2020-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt12583300.json"
+  },
+  {
+    "id": "tt33997565",
+    "name": "Iron Man and His Awesome Friends",
+    "year": 2025,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt33997565/img",
+    "releaseDate": "2025-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt33997565.json"
+  },
+  {
+    "id": "tt7249258",
+    "name": "Ant-Man",
+    "year": 2017,
+    "type": "series",
+    "tags": [
+      "animation"
+    ],
+    "poster": "https://live.metahub.space/poster/small/tt7249258/img",
+    "releaseDate": "2017-12-31",
+    "datePrecision": "year",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt7249258.json"
+  },
+  {
+    "id": "tt2047677",
+    "name": "Astonishing X-Men",
+    "year": 2009,
+    "type": "series",
+    "tags": [
+      "animation",
+      "xmen",
+      "motioncomic"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2047677/img",
+    "releaseDate": "2009-10-27",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2047677.json"
+  },
+  {
+    "id": "tt2212455",
+    "name": "Iron Man: Extremis",
+    "year": 2010,
+    "type": "series",
+    "tags": [
+      "animation",
+      "motioncomic"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2212455/img",
+    "releaseDate": "2010-04-16",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2212455.json"
+  },
+  {
+    "id": "tt1922373",
+    "name": "Thor & Loki: Blood Brothers",
+    "year": 2011,
+    "type": "series",
+    "tags": [
+      "animation",
+      "motioncomic"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt1922373/img",
+    "releaseDate": "2011-04-01",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt1922373.json"
+  },
+  {
+    "id": "tt2824920",
+    "name": "Inhumans",
+    "year": 2013,
+    "type": "series",
+    "tags": [
+      "animation",
+      "motioncomic"
+    ],
+    "poster": "https://images.metahub.space/poster/small/tt2824920/img",
+    "releaseDate": "2013-04-23",
+    "datePrecision": "day",
+    "checkedAt": "2026-10-29",
+    "metadataSource": "https://v3-cinemeta.strem.io/meta/series/tt2824920.json"
+  }
+]
