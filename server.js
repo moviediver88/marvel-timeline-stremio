@@ -14,6 +14,7 @@ const menu = [
 const manifest = {
  id:'community.dolphindiver.marvel.timeline', version,
  name:'Marvel Timeline — Free Catalog',
+ logo:'https://raw.githubusercontent.com/moviediver88/marvel-timeline-stremio/main/Cinematic%20Silver%20M%20with%20Red%20Glow.png',
  description:'Explore Marvel movies, TV series and animation in MCU story and release orders. Includes Spider-Man, X-Men, Fantastic Four, Marvel Television and upcoming releases. Independent fan catalog; no streams hosted. Not affiliated with Marvel. Optional support: https://ko-fi.com/dolphindiver',
  resources:['catalog'], types:['Marvel','movie','series'],
  catalogs:menu.map(([id,name])=>({type:'Marvel',id:`marvel_${id}`,name,extra:[{name:'search',isRequired:false},{name:'skip',isRequired:false}]})),
