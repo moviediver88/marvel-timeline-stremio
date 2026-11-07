@@ -14,7 +14,7 @@ const menu = [
 const manifest = {
  id:'community.dolphindiver.marvel.timeline', version,
  name:'Marvel Timeline — Free Catalog',
- description:'Independent fan catalog by DolphinDiver: Marvel movies, series, animation, Spider-Man, X-Men, Fantastic Four and suggested MCU watch orders. Catalogs only; no streams hosted. Optional support: https://ko-fi.com/dolphindiver',
+ description:'Explore Marvel movies, TV series and animation in MCU story and release orders. Includes Spider-Man, X-Men, Fantastic Four, Marvel Television and upcoming releases. Independent fan catalog; no streams hosted. Not affiliated with Marvel. Optional support: https://ko-fi.com/dolphindiver',
  resources:['catalog'], types:['Marvel','movie','series'],
  catalogs:menu.map(([id,name])=>({type:'Marvel',id:`marvel_${id}`,name,extra:[{name:'search',isRequired:false},{name:'skip',isRequired:false}]})),
  behaviorHints:{configurable:false}
