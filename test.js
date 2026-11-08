@@ -49,3 +49,22 @@ test('HTTP routes, CORS, search parsing, health, and graceful errors',async()=>{
   assert.ok((await(await fetch(base+'/')).text()).includes('ko-fi.com/dolphindiver'));
  }finally{await new Promise(r=>server.close(r));}
 });
+test('catalog configuration, independent selections and setup pages',async()=>{
+ await new Promise(r=>server.listen(0,'127.0.0.1',r));
+ const base='http://127.0.0.1:'+server.address().port;
+ const token=encodeURIComponent(JSON.stringify({marvel_spiderman:'on',marvel_xmen:'on'}));
+ try{
+  const m=await(await fetch(base+'/'+token+'/manifest.json')).json();
+  assert.equal(m.version,'1.1.0');assert.equal(m.name,'Marvel Timeline');assert.equal(m.behaviorHints.configurable,true);
+  assert.deepEqual(m.catalogs.map(c=>c.name),['Spider-Man','X-Men']);assert.equal(m.id,manifest.id);
+  assert.equal(m.config.find(c=>c.key==='marvel_movies').default,'');
+  assert.deepEqual(await(await fetch(base+'/'+token+'/catalog/Marvel/marvel_spiderman.json')).json(),getCatalog('Marvel','marvel_spiderman'));
+  assert.equal((await fetch(base+'/'+token+'/catalog/Marvel/marvel_movies.json')).status,404);
+  assert.equal((await(await fetch(base+'/manifest.json')).json()).catalogs.length,10);
+  for(const raw of ['{}','[]','{"foreign":"on"}','broken'])assert.equal((await fetch(base+'/'+encodeURIComponent(raw)+'/manifest.json')).status,400);
+  for(const path of ['/','/configure','/'+token+'/configure']){
+   const r=await fetch(base+path);const html=await r.text();assert.equal(r.status,200);assert.match(html,/Configure Marvel Timeline/);assert.match(html,/marvel-timeline-stremio.onrender.com/);assert.ok(!html.includes('dc-timeline-stremio'));new Function(html.match(/<script>([\s\S]*?)<\/script>/)[1]);
+   assert.equal((html.match(/type="checkbox"/g)||[]).length,10);
+  }
+ }finally{await new Promise(r=>server.close(r));}
+});

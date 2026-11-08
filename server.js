@@ -3,7 +3,8 @@ const http = require('node:http');
 const { URL, URLSearchParams } = require('node:url');
 const all = require('./catalog.json');
 const story = require('./story-order.json');
-const version = '1.0.0';
+const version = '1.1.0';
+const configuration = require('./configure');
 const today = () => new Date().toISOString().slice(0, 10);
 const menu = [
  ['mcu_story','MCU Story Order'], ['mcu_release','MCU Release Order'],
@@ -18,7 +19,8 @@ const manifest = {
  description:'Explore Marvel movies, TV series and animation in MCU story and release orders. Includes Spider-Man, X-Men, Fantastic Four, Marvel Television and upcoming releases. Independent fan catalog; no streams hosted. Not affiliated with Marvel. Optional support: https://ko-fi.com/dolphindiver',
  resources:['catalog'], types:['Marvel','movie','series'],
  catalogs:menu.map(([id,name])=>({type:'Marvel',id:`marvel_${id}`,name,extra:[{name:'search',isRequired:false},{name:'skip',isRequired:false}]})),
- behaviorHints:{configurable:false}
+ behaviorHints:{configurable:true,configurationRequired:false},
+ config:configuration.settings(menu.map(([id,name])=>({id:`marvel_${id}`,name})))
 };
 function releaseSort(a,b) { return a.releaseDate.localeCompare(b.releaseDate) || a.name.localeCompare(b.name) || a.id.localeCompare(b.id); }
 function upcoming(x) { return x.releaseDate > today(); }
@@ -51,11 +53,16 @@ const server=http.createServer((req,res)=>{
  if(!['GET','HEAD'].includes(req.method))return send(res,405,{error:'Method not allowed'});
  try {
   const url=new URL(req.url,'http://localhost');
-  if(url.pathname==='/manifest.json') return send(res,200,manifest);
+  let route=url.pathname;
+  let selected=manifest.catalogs;
+  const configured=route.match(/^\/([^/]+)\/(manifest\.json|configure|catalog\/.*)$/);
+  if(configured){selected=configuration.selection(configured[1],manifest.catalogs);route='/'+configured[2];}
+  if(route==='/'||route==='/configure')return send(res,200,configuration.page(manifest,selected),'text/html; charset=utf-8');
+  if(route==='/manifest.json')return send(res,200,{...manifest,catalogs:selected,config:configuration.settings(manifest.catalogs).map(c=>({...c,default:selected.some(x=>x.id===c.key)?'checked':''}))});
   if(url.pathname==='/health') return send(res,200,{status:'ok',version,entries:all.length,imdbLinked:all.length,referenceOnly:0,catalogs:menu.length,upcoming:all.filter(upcoming).length});
-  if(url.pathname==='/')return send(res,200,`<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Marvel Timeline</title><style>body{background:#140b12;color:#f8f3f5;font:18px/1.6 system-ui;margin:0;padding:40px 24px}main{max-width:760px;margin:auto}h1{font-size:44px;line-height:1.1}a{color:#ffb6bf}button,.button{display:inline-block;background:#a91431;border:0;border-radius:12px;color:white;padding:12px 20px;text-decoration:none;margin:8px 8px 8px 0}input{box-sizing:border-box;width:100%;padding:14px;background:#251b23;color:white;border:1px solid #765764;border-radius:8px}small{color:#d4c0c8}</style><main><h1>Marvel Timeline</h1><p>Free Marvel catalogs and suggested watch orders for Stremio, by DolphinDiver.</p><p>Movies · Series · Animation · Spider-Man · X-Men · Fantastic Four</p><a class="button" id="install">Install in Stremio</a><a class="button" href="https://ko-fi.com/dolphindiver">Optional support on Ko-fi</a><p>Or copy this manifest URL into Stremio or Addon Manager:</p><input id="url" readonly aria-label="Add-on manifest URL"><p><small>Independent fan project. Not affiliated with Marvel, Disney, Sony, or Stremio. Catalogs only; no video streams hosted. Playback requires other add-ons. Coverage and artwork are a work in progress.</small></p><a href="https://github.com/moviediver88/marvel-timeline-stremio">Instructions and feedback</a></main><script>const manifest=location.origin+'/manifest.json';document.getElementById('url').value=manifest;document.getElementById('install').href=manifest.replace(/^https?:/, 'stremio:');</script></html>`,'text/html; charset=utf-8');
-  const match=url.pathname.match(/^\/catalog\/([^/]+)\/([^/]+)(?:\/([^/]*))?\.json$/);
+  const match=route.match(/^\/catalog\/([^/]+)\/([^/]+)(?:\/([^/]*))?\.json$/);
   if(match) {
+   if(configured&&!selected.some(c=>c.id===decodeURIComponent(match[2])))return send(res,404,{error:'Catalog not selected'});
    const extra=Object.fromEntries(new URLSearchParams(match[3]||''));
    for(const [k,v] of url.searchParams) extra[k]=v;
    return send(res,200,getCatalog(decodeURIComponent(match[1]),decodeURIComponent(match[2]),extra));
