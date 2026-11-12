@@ -19,7 +19,7 @@ const manifest = {
  description:'Explore Marvel movies, TV series and animation, including MCU story and release orders, Spider-Man, X-Men, Fantastic Four and more. Choose all catalogs or select just your favorites during setup. Free to use. Independent fan project; not affiliated with Marvel. Catalogs only; playback requires other add-ons. Optional support: https://ko-fi.com/dolphindiver',
  resources:['catalog'], types:['Marvel','movie','series'],
  catalogs:menu.map(([id,name])=>({type:'Marvel',id:`marvel_${id}`,name,extra:[{name:'search',isRequired:false},{name:'skip',isRequired:false}]})),
- behaviorHints:{configurable:true,configurationRequired:false},
+ stremioAddonsConfig:{issuer:"https://stremio-addons.net",signature:"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..8eG3UZhCU6U6ha-ugO89Hw.qSLP7gqKnsgLhqlSEThJBH2T-B7ovIfMkx99NkCdD2gxFRPUXRcRUkXHbU0UzWvpGcjIKqVVqyPuFwXWLw0vpMilfozZnbz1R4pt3jVsgQ-hZr0LWBpq73-pzorxxkPW.Hh8WHT1mp2ZAsTsu3KqXDA"},behaviorHints:{configurable:true,configurationRequired:false},
  config:configuration.settings(menu.map(([id,name])=>({id:`marvel_${id}`,name})))
 };
 function releaseSort(a,b) { return a.releaseDate.localeCompare(b.releaseDate) || a.name.localeCompare(b.name) || a.id.localeCompare(b.id); }
